@@ -1,0 +1,25 @@
+{
+  "dataset/access_control/unprotected0.sol:Unprotected": {
+    "abi": [
+      {
+        "constant": false,
+        "inputs": [
+          {
+            "name": "_newOwner",
+            "type": "address"
+          }
+        ],
+        "name": "changeOwner",
+        "outputs": [],
+        "payable": false,
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "payable": false,
+        "type": "constructor"
+      }
+    ],
+    "bin-runtime": "60606040526000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063a6f9dae114603d575b600080fd5b3415604757600080fd5b6071600480803573ffffffffffffffffffffffffffffffffffffffff169060200190919050506073565b005b806000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055505b505600a165627a7a723058205bfadb57c4b19e46f5b3785012d7ffda6cba8810609c8605ca212a374a88439e0029"
+  }
+}
